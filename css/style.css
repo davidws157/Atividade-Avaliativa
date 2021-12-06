@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+}
+main {
+    margin: 0 auto;
+    width: 100%;
+    background: #1B1818;
+}
+.pagination {
+    margin-top: 10px;
+}
+article {
+    margin: 0 auto;
+    width: 900px;
+}
+body {
+    margin: 0;
+    background: black;
+    font-size: arial;
+}
+h1{
+    color:coral;
+}
+figure a {
+    color: white;
+    text-decoration: none;
+}
+.figure1 {
+    padding: 10px;
+    background-color: #313131;
+    width: 215px;
+    color: white;
+    display: inline-block;
+    margin-right: 3px;
+    margin-bottom: 0px;
+}
